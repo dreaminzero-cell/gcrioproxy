@@ -1,1 +1,1 @@
-FROM gcr.io/heptio-images/ks-guestbook-demo:0.2
+k8s.gcr.io/ingress-nginx/controller:v1.1.1
